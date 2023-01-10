@@ -1,7 +1,6 @@
 # Simple-Pong-Game
 A simple pong game.
 Lolz
-(copied)
 
 To do:
 1. Add score
@@ -10,3 +9,5 @@ To do:
 4. Add sounds
 5. Add a timer
 6. Add a theme changer
+
+(I know damn well that I ain't gonna do any of those)
